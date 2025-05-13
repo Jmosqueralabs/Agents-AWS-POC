@@ -105,8 +105,12 @@ voicebot-agent-prototype/
 │ └── functional_flow.md
 │
 ├── docs/
-│ └ example.md
-│
+│ └ problem/
+│       └ images/
+│         └── general_problem.png
+│         └── lvl1_proposal.png
+│         └── lvl2_proposal.png
+│         └── lvl2_proposal.png│
 └── README.md
 
 ```
