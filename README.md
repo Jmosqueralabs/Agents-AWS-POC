@@ -110,7 +110,7 @@ voicebot-agent-prototype/
 │         └── general_problem.png
 │         └── lvl1_proposal.png
 │         └── lvl2_proposal.png
-│         └── lvl2_proposal.png│
+│         └── lvl3_proposal.png
 └── README.md
 
 ```
