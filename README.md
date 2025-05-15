@@ -102,7 +102,7 @@ voicebot-agent-prototype/
 │
 ├── diagrams/
 │ ├── architecture.png
-│ └── functional_flow.md
+│ └── architecture.drawio
 │
 ├── docs/
 │ └ problem/
